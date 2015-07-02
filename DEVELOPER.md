@@ -1,5 +1,7 @@
 # Building and Testing Angular 2 for JS and Dart
 
+This is the change that I have made to this document at the request of Scott at DevMontain.
+
 This document describes how to set up your development environment to build and test Angular, both
 JS and Dart versions. It also explains the basic mechanics of using `git`, `node`, and `npm`.
 
